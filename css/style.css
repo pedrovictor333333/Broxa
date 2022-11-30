@@ -1,0 +1,111 @@
+#menu {
+  text-decoration: none;
+  color: rgba(240, 18, 18, 0.993);
+  text-align: hight;
+  padding: 20px;
+}
+
+#menu :hover {
+  color: rgb(228, 35, 1);
+}
+
+.one {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  width: 490px;
+  justify-self: center;
+  overflow: hidden;
+  background-color: rgb(28, 210, 255);
+}
+
+section {
+  display: grid;
+  justify-items: center;
+  padding: 10px 0;
+  gap: 10px;
+  min-height: 70vh;
+  border-bottom: 0.1vh solid rgb(22, 20, 20);
+}
+
+.img {
+  justify-self: center;
+  width: -300px;
+  align-items: flex-end;
+}
+header {
+  width: 100%;
+  background-color: rgb(251, 255, 0);
+  min-height: 14.9vh;
+  display: grid;
+  place-items: end;
+  font-size: 16px;
+  border-bottom: 0.1vh solid rgb(6, 86, 235);
+}
+footer {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  justify-items: center;
+  min-height: 8vh;
+  background-color: rgb(240, 26, 26);
+}
+.produtos {
+}
+#loja {
+  text-align: center;
+}
+.caneca {
+  text-align: center;
+  align-items: center;
+}
+.camisa {
+  align-items: center;
+  text-align: center;
+}
+.mochila {
+  align-items: center;
+  text-align: center;
+}
+.tenis {
+  align-items: center;
+  text-align: center;
+}
+.bone {
+  align-items: center;
+  text-align: center;
+}
+.manga {
+  align-items: center;
+  text-align: center;
+}
+.moletom {
+  align-items: center;
+  text-align: center;
+}
+.short {
+  align-items: center;
+  text-align: center;
+}
+.capinha {
+  align-items: center;
+  text-align: center;
+}
+.toalha {
+  align-items: center;
+  text-align: center;
+}
+.cam {
+  align-items: center;
+  text-align: center;
+}
+.tra {
+  align-items: center;
+  text-align: center;
+}
+.loja {
+  color: rgb(0, 4, 241);
+}
+#menu {
+  background-color: rgb(230, 226, 15);
+  width: 100px;
+}
